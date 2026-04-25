@@ -1,0 +1,29 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Ck305CEA.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "app",
+    "names": [
+      "app.css"
+    ]
+  },
+  "resources/css/custom-login.css": {
+    "file": "assets/custom-login-BEIkodcz.css",
+    "src": "resources/css/custom-login.css",
+    "isEntry": true,
+    "name": "custom-login",
+    "names": [
+      "custom-login.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CbzlIy-1.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-BHH8rdGj.css"
+    ]
+  }
+}
